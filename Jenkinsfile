@@ -8,7 +8,7 @@ pipeline {
     }
 
     environment {
-        AWS_CREDENTIALS_ID = 'aws-credentials-Khush' // Update this if needed
+        AWS_CREDENTIALS_ID = 'aws-crendentails-Khush' // Update this if needed
     }
 
     stages {
